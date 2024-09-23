@@ -1,4 +1,4 @@
-# Image Generator Script
+# ZAMUDIO.png
 
 This Python script generates PNG images with custom text, adjusting font size and line breaks dynamically to fit the image dimensions. The script allows users to specify a phrase, and it automatically adjusts the text size and alignment for aesthetic appearance.
 
