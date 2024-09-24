@@ -31,7 +31,7 @@ This Python script generates PNG images with custom text, adjusting font size an
 
 ## Usage
 
-1. **Set the destination folder** for saving generated images in the `WHERE_TO_SAVE` variable (e.g., `"C:/Users/Sebas/Documents/GENERADOR_PNG"`).
+1. **Set the destination folder** for saving generated images in the `WHERE_TO_SAVE` variable.
 
 2. **Run the script** and input the desired text when prompted. The script will generate an image based on the input text.
 
