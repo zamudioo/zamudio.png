@@ -46,11 +46,11 @@ This Python script generates PNG images with custom text, adjusting font size an
 ## Examples
 
 - If you input: `"Hello World"`, the script will generate a centered image with the text adjusted to fit the 500x500 pixel canvas.
-  ![Hello_world!](https://github.com/user-attachments/assets/bed92a60-696d-48e3-84fc-b3e8a2d2baaf)
+- ![Hello_world!](https://github.com/user-attachments/assets/bed92a60-696d-48e3-84fc-b3e8a2d2baaf)
 
 
 - For a single letter, the font size will be maximized to fill the image, whereas longer text will automatically adjust the font size and wrap lines as needed.
-  ![z](https://github.com/user-attachments/assets/de6c4e10-81c1-4f7c-91bb-380260ee03f6)
+- ![z](https://github.com/user-attachments/assets/de6c4e10-81c1-4f7c-91bb-380260ee03f6)
 
 
 ## Customization
